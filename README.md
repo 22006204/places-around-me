@@ -147,12 +147,12 @@ The National Assessment and Accreditation Council has conferred 'five star' accr
 ```
 
 ## Output:
-![output1](./screenshots/output1.png)
-![output2](./screenshots/output2.png)
-![output3](./screenshots/output3.png)
-![output4](./screenshots/output4.png)
-![output5](./screenshots/output5.png)
-![output6](./screenshots/output6.png)
+![output1](https://user-images.githubusercontent.com/118787261/212539652-53702aa0-b3cd-4b96-a76c-5da0cd4d7523.png)
+![output2](https://user-images.githubusercontent.com/118787261/212539655-bd3f1ab1-5375-4126-b959-484208be6908.png)
+![output3](https://user-images.githubusercontent.com/118787261/212539659-ffcbfd8c-184c-48e4-9c00-4bbc18a98f87.png)
+![output4](https://user-images.githubusercontent.com/118787261/212539664-d69d4577-91c7-4148-8f3a-56b90bfd9198.png)
+![output5](https://user-images.githubusercontent.com/118787261/212539668-b5f573a6-f78b-4c73-9579-e9f380be945b.png)
+![output6](https://user-images.githubusercontent.com/118787261/212539675-c757fcbe-e4a2-43c8-bab0-58a4ccb8443b.png)
 
 ## Result:
 Thus a website is developed to display details about the places around my house
